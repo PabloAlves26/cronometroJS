@@ -1,0 +1,35 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+h1 {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#counter{
+    font-size: 2rem;
+    color: rgb(243, 243, 132);
+}
+div {
+    text-align: center;
+    color: #fff;;
+}
+button {
+    height: 2.2em;
+    width:5em;
+    border:none;
+    color: #fff;
+    margin-right: 1em;
+}
+button:hover {
+    cursor: pointer;
+}
+.start-btn {
+    background-color: green;
+}
+.pause-btn {
+    background-color: grey;
+}
+.stop-btn {
+    background-color: red;
+}
